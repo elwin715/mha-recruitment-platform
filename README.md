@@ -255,11 +255,11 @@ demo accounts — all sharing the password `DemoPass123!`:
 
 | Role | Email |
 |---|---|
-| Administrator (Django admin) | `admin@demo.mha-jobs.local` |
-| Approved employer | `talent@demo.aurorabank.example.com` |
-| Pending employer | `pending@demo.summitventures.example.com` |
-| Candidate (complete profile + resume) | `candidate.complete@demo.mha-jobs.local` |
-| Candidate (incomplete profile) | `candidate.incomplete@demo.mha-jobs.local` |
+| Administrator | `admin@mha.com` |
+| Approved employer | `vendox@mha.com` |
+| Pending employer | `webyte@mha.com` |
+| Candidate (complete profile + resume) | `alex@mha.com` |
+| Candidate (incomplete profile) | `sam@mha.com` |
 
 The demo data is synthetic and must never be used in production. See
 [`docs/development/API.md`](docs/development/API.md) for the API reference and
